@@ -5,6 +5,8 @@ nesee curso e ensinado como contribuir com projetos de código aberto
 
 link para o curso [python pron] https://plataforma.dev.pro.br/
 
+[![Build Status](https://app.travis-ci.com/david0407j/libpythonpro1.svg?branch=main)](https://app.travis-ci.com/david0407j/libpythonpro1)
+
 suportada versão 3 de python 
 """console
 python3 -m venv .venv 
